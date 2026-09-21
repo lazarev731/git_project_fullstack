@@ -5,5 +5,6 @@ def main():
     print("Show must go on")
     print("I like my PC")
     print("One more thing")
+    print("Even more things")
 if __name__ == '__main__':
     main()
